@@ -2,8 +2,7 @@
 * Python小成
 
 <div align="center">
-  <a href="https://github.com/C418-11">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=C418-11&show_icons=true&theme=holi" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C418-11&layout=compact&theme=holi&langs_count=20" />
-  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=C418-11&show_icons=true&theme=holi"/>
+  <img width="10"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C418-11&layout=compact&theme=holi&langs_count=20"/>
 </div>
